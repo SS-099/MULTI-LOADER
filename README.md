@@ -1,4 +1,4 @@
-![logo](https://github.com/NILAM-RAI/MULTI-LOADER/blob/main/INFO/IMG_20240912_143906.jpg)
+![logo](https://github.com/NILAM-RAI/MULTI-LOADER/blob/main/INFO/IMG_20240913_061219.jpg)
 
 ![logo](https://github.com/NILAM-RAI/RENDER-SERVER/blob/main/INFO/IMG_20240903_133409.jpg)
 
