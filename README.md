@@ -1,6 +1,6 @@
-![logo](https://github.com/NILAM-RAI/MULTI-LOADER/blob/main/INFO/IMG_20240913_061219.jpg)
+![logo](https://github.com/SHAREEF LADKA/MULTI-LOADER/blob/main/INFO/IMG_20240913_061219.jpg)
 
-![logo](https://github.com/NILAM-RAI/RENDER-SERVER/blob/main/INFO/IMG_20240903_133409.jpg)
+![logo](https://github.com/SHAREEF LADKA/RENDER-SERVER/blob/main/INFO/IMG_20240903_133409.jpg)
 
 * DEPLAY THIS RENDER
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
